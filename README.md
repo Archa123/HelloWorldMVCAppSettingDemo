@@ -18,7 +18,7 @@
 ## Steps to Follow:
 * Fork the "Azure remediation scripts" repository to your local GitHub repository.
 
-* Click Deploy to Azure
+* Click "Deploy to Azure" Button
 * On the Deploy to Azure page, enter the following information and click Next:
 	Directory
 	Resource Group - you can either use an existing one or enter a new one
