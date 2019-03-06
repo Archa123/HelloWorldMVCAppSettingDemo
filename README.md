@@ -6,13 +6,14 @@
 * Use an active Azure account
 * For deploying the code, you can use one of the following methods:
 	
-	Downlaod the CWAFunctionApp.zip and manually deploy the function app using the zip-push method. Refer to link [Azure zip-		push deployment](https://docs.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)	 
+	* Downlaod the CWAFunctionApp.zip and manually deploy the function app using the zip-push method. 
+	  Refer to link [Azure zip-push deployment](https://docs.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)	 
 
-	Use the option: 
+	* Use the option: 
 	
-	[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
+	  [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 	
-	and follow the steps given below.
+	  and follow the steps given below.
 
 ## Steps to Follow:
 * Fork the "Azure remediation scripts" repository to your local GitHub repository.
@@ -27,13 +28,10 @@
 	Location - You can have one function app in one location.
 * Click Deploy.
 
-For further details about Azure Remediation, refer to the following link:
-https://help.symantec.com/cs/SCWP/SCWA/v131901146_v127279924/title?locale=EN_US&sku=CWA
+For further details about Azure Remediation, refer to the [documentation link](https://help.symantec.com/cs/SCWP/SCWA/v131901146_v127279924/title?locale=EN_US&sku=CWA)
 	
------------------------------------------------------------------------------------------------------------------------------------***********************************************************************************************************************************
 -----------------------------------------------------------------------------------------------------------------------------------
-
-Copyright © 2019 Symantec Corporation. All rights reserved.
+**Copyright © 2019 Symantec Corporation. All rights reserved.**
 
 Symantec, the Symantec Logo, the Checkmark Logo and  are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners.
 
