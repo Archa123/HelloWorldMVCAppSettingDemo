@@ -20,12 +20,12 @@
 
 * Click "Deploy to Azure" Button
 * On the Deploy to Azure page, enter the following information and click Next:
-	Directory
-	Resource Group - you can either use an existing one or enter a new one
-	Site Name
-	Subscription
-	Resource Group Name
-	Location - You can have one function app in one location.
+	* Directory
+	* Resource Group - you can either use an existing one or enter a new one
+	* Site Name
+	* Subscription
+	* Resource Group Name
+	* Location - You can have one function app in one location.
 * Click Deploy.
 
 For further details about Azure Remediation, refer to the [documentation link](https://help.symantec.com/cs/SCWP/SCWA/v131901146_v127279924/title?locale=EN_US&sku=CWA)
