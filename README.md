@@ -28,7 +28,7 @@
 	* Location - You can have one function app in one location.
 * Click Deploy.
 
-For further details about Azure Remediation, refer to the [documentation link](https://help.symantec.com/cs/SCWP/SCWA/v131901146_v127279924/title?locale=EN_US&sku=CWA)
+For further details about Azure Remediation Steps, refer to the [documentation link](https://help.symantec.com/cs/SCWP/SCWA/v131901146_v127279924/title?locale=EN_US&sku=CWA)
 	
 -----------------------------------------------------------------------------------------------------------------------------------
 **Copyright © 2019 Symantec Corporation. All rights reserved.**
