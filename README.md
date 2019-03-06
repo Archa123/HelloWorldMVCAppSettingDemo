@@ -1,9 +1,6 @@
 
 # Cloud Workload Assurance Azure Remediation
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
-
-
 
 ## Getting Started:
 * Use an active Azure account
